@@ -18,6 +18,7 @@
     <img align="center" src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" alt="logo react" style="width:50px;" />
     <img align="center" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="logo node" style="width:50px;" />    
     <img align="center" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="logo nest" style="width:50px;" />
+    <img align="center" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="logo mongodb" style="width:50px;" />
   </div>
 
   
