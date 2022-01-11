@@ -12,7 +12,7 @@
   
   
   <div align="center">
-    <img align="center" src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png" alt="logo javascript" style="width:50px;"/>
+    <img align="center" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="logo javascript" style="width:50px;"/>
     <img align="center" src="http://ltidecivil.tecnico.ulisboa.pt/wp-content/uploads/2019/09/HTML5_Badge_512.png" alt="logo html" style="width:50px;"/>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="logo css" style="width:50px;"/>
     <img align="center" src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" alt="logo react" style="width:50px;" />
