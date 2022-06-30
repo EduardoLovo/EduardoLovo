@@ -10,14 +10,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolovo&layout=compact&langs_count=7&theme=merko"/>
   </div></br>
  
- ### Social Networks:
-
-<div>
-  <a href="https://www.instagram.com/eduardo.llovo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-felipe-lovo-475019214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  
-  
   
   <div align="center">
     <img align="center" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" alt="logo javascript" style="width:50px;"/>
@@ -30,5 +22,11 @@
     <img align="center" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="logo mongodb" style="width:50px;" />
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" alt="logo mysql" style="width:50px;" />
   </div>
-
   
+
+  ### Social Networks:
+
+<div>
+  <a href="https://www.instagram.com/eduardo.llovo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-felipe-lovo-475019214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
