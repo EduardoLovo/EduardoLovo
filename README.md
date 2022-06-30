@@ -1,4 +1,6 @@
+### Olá, meu nome é Eduardo Felipe Lovo
 
+### Bem-vindo ao meu perfil Github!
 
   <h1 align="center"><b>Eduardo Lovo - Dev Full Stack</b></h1>
 
