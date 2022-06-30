@@ -8,7 +8,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolovo&layout=compact&langs_count=7&theme=merko"/>
   </div></br>
   
-  <h3>Studying at <a href="https://blueedtech.com.br/">Blue Edtech</a> school</h3>
+  <h3>Studying at school:</h3>
+  <a href="https://blueedtech.com.br/">Blue Edtech</a>
  
   
   <div align="center">
