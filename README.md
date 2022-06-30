@@ -21,7 +21,7 @@
     <img align="center" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="logo nest" style="width:50px;" />
     <img align="center" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="logo mongodb" style="width:50px;" />
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" alt="logo mysql" style="width:50px;" />
-    <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png)" alt="logo docker" style="width:50px;" />
+    <img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" alt="logo docker" style="width:50px;" />
   </div>
   
 
