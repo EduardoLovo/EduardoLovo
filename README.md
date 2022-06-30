@@ -8,8 +8,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolovo&layout=compact&langs_count=7&theme=merko"/>
   </div></br>
   
-  <h3>Studying at school:</h3>
-  <a href="https://blueedtech.com.br/">Blue Edtech</a>
+  
+  
  
   
   <div align="center">
@@ -25,3 +25,26 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-felipe-lovo-475019214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-felipe-lovo-475019214/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/eduardo.llovo/?hl=pt-br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eduardo.llovo/?hl=pt-br" height="30" width="40" /></a>
 </p>
+
+<div >
+  <h3>Studying at school:</h3>
+  <a href="https://blueedtech.com.br/">Blue Edtech</a>
+  
+  <h4>Repositorios feitos na Blue Edtech:</h4>
+  <p><a href="https://github.com/EduardoLovo/PF-BackEnd" target="_blank">To Do List - Backend (node - express)</a></p>
+  <p><a href="https://github.com/EduardoLovo/PF-BackEnd" target="_blank">To Do List - Backend (node - express)</a></p>
+  <p><a href="https://github.com/EduardoLovo/PF-FrontEnd" target="_blank">To Do List - Frontend (Reactjs)</a></p>
+  <p><a href="https://github.com/EduardoLovo/Projeto01-MOD03" target="_blank">Projeto 1 Modulo: Fullstack I</a></p>
+  <p><a href="https://github.com/EduardoLovo/Projeto02-MOD03" target="_blank">Projeto 2 Modulo: Fullstack I</a></p>
+  <p><a href="https://github.com/EduardoLovo/Projeto-Restaurantes/tree/master/projeto03" target="_blank">Projeto Restaurante Modulo: Fullstack I</a></p>
+  <p><a href="https://github.com/EduardoLovo/Usuarios-MOD03" target="_blank">Projeto Usuarios Modulo: Fullstack I</a></p>
+  <p><a href="https://github.com/EduardoLovo/Filmes-MOD-03-FRONT/tree/main/src/pages" target="_blank">Projeto Filme Modulo: Fullstack I</a></p>
+  <p><a href="https://github.com/EduardoLovo/Codelab-Semana01" target="_blank">Projeto 1 Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/Codelab-Semana02" target="_blank">Projeto 2 Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/Codelab-Semana03-backend" target="_blank">Projeto 3 (Backend) Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/Codelab-Semana03-Frontend" target="_blank">Projeto 3 (Frontend) Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/Codelab-Semana04-backend" target="_blank">Projeto 4 (Backend) Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/Codelab-Semana04-Frontend" target="_blank">Projeto 3 (Frontend) Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/MOD04-Projeto1" target="_blank">Projeto Final (Backend) Modulo: Fullstack II (Nest -React)</a></p>
+  <p><a href="https://github.com/EduardoLovo/MOD04-Projeto2" target="_blank">Projeto Final (Frontend) Modulo: Fullstack II (Nest -React)</a></p>
+  </div> 
