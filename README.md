@@ -30,15 +30,7 @@
   <h3>Studying at school:</h3>
   <a href="https://blueedtech.com.br/">Blue Edtech</a>
   
-  <h4>Repositorios feitos na Blue Edtech:</h4>
-  <p><a href="https://github.com/EduardoLovo/PF-BackEnd" target="blank">To Do List - Backend (node - express)</a></p>
-  <p><a href="https://github.com/EduardoLovo/PF-BackEnd" target="blank">To Do List - Backend (node - express)</a></p>
-  <p><a href="https://github.com/EduardoLovo/PF-FrontEnd" target="blank">To Do List - Frontend (Reactjs)</a></p>
-  <p><a href="https://github.com/EduardoLovo/Projeto01-MOD03" target="blank">Projeto 1 Modulo: Fullstack I</a></p>
-  <p><a href="https://github.com/EduardoLovo/Projeto02-MOD03" target="blank">Projeto 2 Modulo: Fullstack I</a></p>
-  <p><a href="https://github.com/EduardoLovo/Projeto-Restaurantes/tree/master/projeto03" target="blank">Projeto Restaurante Modulo: Fullstack I</a></p>
-  <p><a href="https://github.com/EduardoLovo/Usuarios-MOD03" target="blank">Projeto Usuarios Modulo: Fullstack I</a></p>
-  <p><a href="https://github.com/EduardoLovo/Filmes-MOD-03-FRONT/tree/main/src/pages" target="blank">Projeto Filme Modulo: Fullstack I</a></p>
+ 
   <p><a href="https://github.com/EduardoLovo/Codelab-Semana01" target="blank">Projeto 1 Modulo: Fullstack II (Nest -React)</a></p>
   <p><a href="https://github.com/EduardoLovo/Codelab-Semana02" target="blank">Projeto 2 Modulo: Fullstack II (Nest -React)</a></p>
   <p><a href="https://github.com/EduardoLovo/Codelab-Semana03-backend" target="blank">Projeto 3 (Backend) Modulo: Fullstack II (Nest -React)</a></p>
