@@ -31,12 +31,5 @@
   <a href="https://blueedtech.com.br/">Blue Edtech</a>
   
  
-  <p><a href="https://github.com/EduardoLovo/Codelab-Semana01" target="blank">Projeto 1 Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/Codelab-Semana02" target="blank">Projeto 2 Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/Codelab-Semana03-backend" target="blank">Projeto 3 (Backend) Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/Codelab-Semana03-Frontend" target="blank">Projeto 3 (Frontend) Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/Codelab-Semana04-backend" target="blank">Projeto 4 (Backend) Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/Codelab-Semana04-Frontend" target="blank">Projeto 3 (Frontend) Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/MOD04-Projeto1" target="blank">Projeto Final (Backend) Modulo: Fullstack II (Nest -React)</a></p>
-  <p><a href="https://github.com/EduardoLovo/MOD04-Projeto2" target="blank">Projeto Final (Frontend) Modulo: Fullstack II (Nest -React)</a></p>
+
   </div> 
