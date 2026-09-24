@@ -1,35 +1,21 @@
-<h1 align="center">Hi 👋, I'm Eduardo Felipe Lovo</h1>
-<h3 align="center">Dev Fullstack</h3>
-
-
-  <div align="center">
-    <a href="https://github.com/EduardoLovo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolovo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolovo&layout=compact&langs_count=7&theme=merko"/>
-  </div></br>
-  
-  
-  
- 
-  
-  <div align="center">
-    <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-  </div>
-  
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-felipe-lovo-475019214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-felipe-lovo-475019214/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/eduardo.llovo/?hl=pt-br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eduardo.llovo/?hl=pt-br" height="30" width="40" /></a>
-</p>
-
-<div >
-  <h3>Studying at school:</h3>
-  <a href="https://blueedtech.com.br/">Blue Edtech</a>
-  
- 
-
-  </div> 
+<!-- Banner animado --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Eduardo%20Lovo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-end&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> </p> <!-- Texto digitando --> <p align="center"> <a href="https://github.com/EduardoLovo"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+%F0%9F%91%8B;Front-end+com+React+%2B+Next.js;Interfaces+animadas+com+GSAP+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p> <!-- Badges de contato --> <p align="center"> <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:eduardo.llovo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=EduardoLovo&style=for-the-badge&color=6d28d9&label=VISITAS" /> </p>
+👨‍💻 Sobre mim
+const eduardo = {
+  role: "Desenvolvedor Front-end",
+  location: "Brasil 🇧🇷",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP"],
+  learning: ["Node.js", "Prisma", "Arquitetura de software"],
+  hobbies: ["Código", "Animações web", "Pokémon ⚡"],
+  funFact: "Transformo layouts estáticos em experiências que se mexem ✨",
+};
+🔭 Trabalhando em sites institucionais com Next.js + Sanity CMS
+🎨 Apaixonado por animações e micro-interações na web
+🌱 Estudando back-end para me tornar full stack
+💬 Pode me chamar para falar de React, UI e performance
+🛠️ Tecnologias
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,styledcomponents,sass&perline=10" /> <br/><br/> <img src="https://skillicons.dev/icons?i=nodejs,prisma,git,github,vercel,vscode,figma&perline=10" /> </p> <p align="center"> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /> <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" /> <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> </p>
+🚀 Projetos em destaque
+<p align="center"> <a href="https://github.com/EduardoLovo/Api-Pokemon"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoLovo&repo=Api-Pokemon&theme=tokyonight&hide_border=true&border_radius=12" /> </a> <a href="https://github.com/EduardoLovo/Api-Pokemon-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoLovo&repo=Api-Pokemon-2&theme=tokyonight&hide_border=true&border_radius=12" /> </a> </p>
+📊 Estatísticas
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoLovo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLovo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=EduardoLovo&theme=tokyonight&hide_border=true&border_radius=12" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoLovo&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" /> </p>
+<!-- Troféus --> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EduardoLovo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" /> </p> <!-- Rodapé --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f172a&height=120&section=footer" width="100%"/> </p>
