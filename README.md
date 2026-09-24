@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Eduardo%20Lovo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-end&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Eduardo%20Lovo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full-stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <pre>
 const eduardo = {
-  role:     "Desenvolvedor Front-end",
+  role:     "Desenvolvedor Full Stack",
   location: "Brasil 🇧🇷",
   stack:    ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP", "Node.js", "Prisma", "Nest.js", "PostgreSQL"],
   learning: ["Python"],
@@ -31,8 +31,7 @@ const eduardo = {
 <ul>
   <li>🔭 Trabalhando em sites institucionais com <b>Next.js + Sanity CMS</b></li>
   <li>🎨 Apaixonado por <b>animações e micro-interações</b> na web</li>
-  <li>🌱 Estudando <b>back-end</b> para me tornar full stack</li>
-  <li>💬 Pode me chamar para falar de <b>React, UI e performance</b></li>
+  <li>🌱 Estudando <b>Python</b></li>
 </ul>
 
 <hr/>
