@@ -23,8 +23,7 @@ const eduardo = {
   location: "Brasil 🇧🇷",'
   stack:    ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP", "Node.js", "Express", "Nest.js", "Jest", "Docker", "Prisma", "PostgreSQL"],
   learning: ["Python", "Flask", "Django", "PyTest"],
-  hobbies:  ["Código", "Animações web"],
-  funFact:  "Transformo layouts estáticos em experiências que se mexem ✨",
+  hobbies:  ["Código", "Animações web", "Games"],
 };
 </pre>
 
