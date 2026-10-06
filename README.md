@@ -20,10 +20,10 @@
 <pre>
 const eduardo = {
   role:     "Desenvolvedor Full Stack",
-  location: "Brasil 🇧🇷",
-  stack:    ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP", "Node.js", "Prisma", "Nest.js", "PostgreSQL"],
+  location: "Brasil 🇧🇷",'
+  stack:    ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP", "Node.js", "Express", "Nest.js", "Docker", "Prisma", "PostgreSQL"],
   learning: ["Python"],
-  hobbies:  ["Código", "Animações web", "Pokémon ⚡"],
+  hobbies:  ["Código", "Animações web"],
   funFact:  "Transformo layouts estáticos em experiências que se mexem ✨",
 };
 </pre>
